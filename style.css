@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 191, 73);
+}
+
+#score{
+    float: left;
+}
+
+#time{
+    float: right;
+}
+
+#sketch{
+    color: red;
+}
